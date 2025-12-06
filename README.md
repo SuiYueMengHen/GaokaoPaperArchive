@@ -1,2 +1,3 @@
-# GaokaoPaperArchive
-A curated archive of Gaokao (Chinese National College Entrance Examination) mock papers from various provinces. Includes PDFs, answer keys, and analysis.
+<div align="center">
+  <h1>GaokaoPaperArchive</h1>
+</div>
