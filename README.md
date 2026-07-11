@@ -15,3 +15,11 @@
 | **004** | 浙江省强基联盟2025年12月高三联考 | [📥 下载](https://www.123865.com/s/dwatjv-9j5Wd?pwd=kqZy#) |
 
 </div>
+
+## Project Status
+
+This repository is maintained as part of SuiYueMengHen's open-source project collection. Issues and suggestions are welcome.
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
